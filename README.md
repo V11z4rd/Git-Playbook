@@ -1,2 +1,2 @@
 # Git-Playbook
-Guia pessoal do uso do git para organizar melhor os commits.
+Anotações pessoas e práticas de versionamento com Git, incluindo comandos frequentes, fluxo de trabalho e conceitos importantes.
