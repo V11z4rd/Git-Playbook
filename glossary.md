@@ -1,6 +1,16 @@
+## ⚙️ Nova Funcionalidade
 feat: Nova funcionalidade
-fix: Correção de bug
-style: Mudanças visuais (CSS)
-refactor: Mudança sem alterar comportamento
-chore: Tarefas gerais
-doc: Atualização da documentação
+## 🐛 Correção de bug
+fix:
+## 🎨 Mudanças visuais (CSS)
+style: 
+## 🔧 Mudança sem alterar comportamento
+refactor: 
+## 🗃️ Tarefas gerais (Mudanças "administrativas" ou infra estrutura)
+chore: 
+
+| Atualizar dependencias / Ajustar `.gitignore` ou `.editorconfig`
+## 📚 Atualização da documentação
+doc: 
+
+| README.md / CONTRIBUITION.md
